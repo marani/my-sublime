@@ -1,0 +1,29 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS Snippets",
+		"CodeFormatter",
+		"DocBlockr",
+		"Emmet",
+		"HTML Mustache",
+		"HTML-CSS-JS Prettify",
+		"Jade",
+		"JavaScriptNext - ES6 Syntax",
+		"JSHint Gutter",
+		"LESS",
+		"Markdown Preview",
+		"Package Control",
+		"ReactJS",
+		"ReactJS Snippets",
+		"Sass",
+		"SassBeautify",
+		"SublimeLinter",
+		"SublimeLinter-jsxhint",
+		"Theme - Flatland",
+		"Theme - Minimal",
+		"Theme - Spacegray"
+	]
+}
