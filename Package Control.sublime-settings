@@ -5,8 +5,10 @@
 	"installed_packages":
 	[
 		"AngularJS Snippets",
+		"Babel",
 		"CodeFormatter",
 		"DocBlockr",
+		"Dockerfile Syntax Highlighting",
 		"Emmet",
 		"HTML Mustache",
 		"HTML-CSS-JS Prettify",
@@ -24,6 +26,7 @@
 		"SublimeLinter-jsxhint",
 		"Theme - Flatland",
 		"Theme - Minimal",
-		"Theme - Spacegray"
+		"Theme - Spacegray",
+		"TypeScript"
 	]
 }

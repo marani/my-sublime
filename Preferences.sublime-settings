@@ -1,5 +1,6 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/base16-ocean.dark (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Flatland Dark (SL).tmTheme",
+	"ensure_newline_at_eof_on_save": true,
 	"font_size": 9,
 	"ignored_packages":
 	[
@@ -8,5 +9,6 @@
 	"tab_size": 2,
 	"theme": "Minimal.sublime-theme",
 	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
 	"word_wrap": "false"
 }
